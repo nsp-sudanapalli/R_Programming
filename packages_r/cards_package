@@ -2,11 +2,6 @@
 |----------------------------|---------------------------|---------------------------------------------------------|
 | Category                   | Function                  | Description                                             |
 |----------------------------|---------------------------|---------------------------------------------------------|  
-| Calculations & Rounding    | add_calculated_row        | Add calculated rows to your ARD                         |
-|                            | maximum_variable_value    | Find the maximum value of a variable                    |
-|                            | round5                    | Round numbers to the nearest 5                          |
-|                            | label_round               | Format labels with rounding                             |
-|----------------------------|---------------------------|---------------------------------------------------------|  
 | Summaries & Totals         | ard_summary               | Univariate summary of ARD                               |
 |                            | ard_mvsummary             | Multivariate ARD summaries                              |
 |                            | ard_total_n               | Total N for ARD                                         |
@@ -28,5 +23,9 @@
 | Conditions & Messages      |captured_condition_as_error| Capture and throw errors for ARD issues                 |
 |                            | eval_capture_conditions   | Capture and evaluate conditions                         |
 |----------------------------|---------------------------|---------------------------------------------------------|
-
+| Calculations & Rounding    | add_calculated_row        | Add calculated rows to your ARD                         |
+|                            | maximum_variable_value    | Find the maximum value of a variable                    |
+|                            | round5                    | Round numbers to the nearest 5                          |
+|                            | label_round               | Format labels with rounding                             |
+|----------------------------|---------------------------|---------------------------------------------------------|  
 
